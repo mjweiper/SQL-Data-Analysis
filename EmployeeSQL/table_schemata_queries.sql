@@ -68,10 +68,6 @@ REFERENCES "employees" ("employee_no");
 
 --DATA ANALYSIS
 
-SELECT * FROM employees;
-SELECT * FROM salaries;
-
-
 -- 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 SELECT employees.employee_no, employees.last_name, employees.first_name, employees.gender, salaries.salary
 FROM employees 
