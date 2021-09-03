@@ -15,6 +15,9 @@ Using PgAdmin with clean tables I am now able to dive into database via sql. Pic
 
 ![sql](Picture1.png)
 
+For example question 4 results are pictured below:
+
+![sql](Picture3.png)
 
 Contact 
 mattweiper@gmail.com
