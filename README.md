@@ -1,10 +1,9 @@
 # SQL - Employee Database
 
-![sql.png](sql.png)
+![erd](ERD.PNG)
 
 Created a Entity Relationship Diagram to plan out framework to combine 6 CSV files with employee information. Using PgAdmin, I was able to use this framework and create tables for a employee database. 
 
-![erd](ERD.PNG)
 
 
 ## Data Engineering
